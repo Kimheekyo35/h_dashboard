@@ -38,5 +38,5 @@ map_data = pd.DataFrame(
 st.map(map_data)
 
 
-titanic=pd.read_csv("C:\Users\user\Downloads\datasets.zip\titanic\full.csv")
+titanic=pd.read_csv("C:\Users\user\Downloads\datasets\titanic\full.csv")
 st.write(titanic)
